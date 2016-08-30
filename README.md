@@ -5,3 +5,5 @@
 目的，当然，根据此方法的实现，我们也可以使用 .aidl 文件进行数据
 的传递，等等操作
 在这里主要是做下简单的Demo示例！
+
+![](https://github.com/wanglyGithub/ServiceBind/blob/master/preview/Screenshot_2016-08-30-13-05-51-963_com.wangly.service_binding.png)
